@@ -6,7 +6,7 @@ cualquier integrante del equipo pueda replicarlo.
 
 ## Requisitos previos
 
-- Python 3.10 o superior
+- Python 3.13.14
 - pip (incluido con Python)
 
 ## Estructura del proyecto
